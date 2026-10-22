@@ -1,0 +1,9 @@
+{
+  "C_Cpp.default.includePath": [
+    "${workspaceFolder}/src",
+    "${workspaceFolder}/.pio/libdeps/heltec_wifi_lora_32_V3/ESP32Servo/src",
+    "C:/Users/gabrl/.platformio/packages/framework-arduinoespressif32-esp32s3-libs/include/**",
+    "C:/Users/gabrl/.platformio/packages/framework-arduinoespressif32/cores/esp32",
+    "C:/Users/gabrl/.platformio/packages/framework-arduinoespressif32/variants/heltec_wifi_lora_32_V3"
+  ]
+}
