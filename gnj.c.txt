@@ -1,8 +1,0 @@
-#include <stdlib.h>
-
-int main() {
-    double* thing;
-    while(1) {
-        thing = malloc(sizeof(double) * 20000000);
-    }
-}
